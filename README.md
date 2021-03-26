@@ -1,13 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeroplusone&label=Profile%20views&color=0e75b6&style=flat-square" alt="zeroplusone" /> </p>
 
-<p>
-  <table>
-    <tr>
-      <th><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeroplusone&theme=dark" alt="zeroplusone" /></th>
-      <th>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeroplusone&show_icons=true&theme=dark&locale=en" alt="zeroplusone" /></th>
-    </tr>
-  </table>
-</p>
+<img width="48%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zeroplusone&theme=dark" alt="zeroplusone" />
+<img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=zeroplusone&show_icons=true&theme=dark&locale=en" alt="zeroplusone" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
